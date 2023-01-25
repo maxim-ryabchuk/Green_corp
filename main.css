@@ -342,7 +342,6 @@ footer h3 {
 
 .card {
   padding: 35px 40px 25px 40px;
-  background: #FFFFFF;
   border: 1px solid #D9E4E6;
   border-radius: 5px;
 }
@@ -367,6 +366,10 @@ footer h3 {
 
 .card__logo.yellow {
   color: #ffb406;
+}
+
+.about button > i {
+  text-align: center;
 }
 
 .card__logo.red {
