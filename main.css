@@ -106,6 +106,8 @@ button {
   width: 550px;
 }
 
+/*форма*/
+
 .form{
   display: flex;
   justify-content: center;
