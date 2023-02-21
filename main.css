@@ -513,3 +513,16 @@ footer h3 {
     height: 500px;
   }
 }
+
+/*canvas*/
+
+.about {
+  position: relative;
+}
+
+.orb-canvas {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  right: 0;
+}
